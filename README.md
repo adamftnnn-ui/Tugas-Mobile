@@ -9,6 +9,6 @@
 |  2 | 03-09-2025  | 01  | Widget Row dan Column  | [Modul 02](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.ag72e0ulx162 "Modul 02") | [Program](https://github.com/adamftnnn-ui/Modul-2) |
 |  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.sou3qv7l5z0d "Modul 03") | [Program](https://github.com/adamftnnn-ui/Modul-3) |
 |  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.61eka6nq7lsa "Modul 04") | [Program](https://github.com/adamftnnn-ui/Modul-4) |
-|  5 |  - | 03  | -  | [Modul 05](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.efv1pcx8mr2n "Modul 05") | [Program](-) |
-|  6 |  - | 03  | -  | [Modul 06](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.vpyrsrf8xbri "Modul 06") | [Program](-) |
+|  5 |  17-09-2025 | 03  | Widget SizedBox, Spacer, dan Card | [Modul 05](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.efv1pcx8mr2n "Modul 05") | [Program](https://github.com/adamftnnn-ui/Modul-5) |
+|  6 |  17-09-2025 | 03  | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.vpyrsrf8xbri "Modul 06") | [Program](-) |
 
