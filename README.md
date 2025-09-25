@@ -11,6 +11,6 @@
 |  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.61eka6nq7lsa "Modul 04") | [Program](https://github.com/adamftnnn-ui/Modul-4) |
 |  5 |  17-09-2025 | 03  | Widget SizedBox, Spacer, dan Card | [Modul 05](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.efv1pcx8mr2n "Modul 05") | [Program](https://github.com/adamftnnn-ui/Modul-5) |
 |  6 |  17-09-2025 | 03  | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.vpyrsrf8xbri "Modul 06") | [Program](https://github.com/adamftnnn-ui/Modul-6) |
-|  7 |  24-09-2025 | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](- "Modul 07") | [Program](https://github.com/adamftnnn-ui/Modul-7) |
-|  8 |  24-09-2025 | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named | [Modul 08](- "Modul 08") | [Program](https://github.com/adamftnnn-ui/Modul-8) |
+|  7 |  24-09-2025 | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.2li981wztmce "Modul 07") | [Program](https://github.com/adamftnnn-ui/Modul-7) |
+|  8 |  24-09-2025 | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named | [Modul 08](https://docs.google.com/document/d/1OyamdvbUcxRZckq7V4EKO2zyRimaH_qAVHTC80iBFuE/edit?tab=t.i9fhgdng1kxk "Modul 08") | [Program](https://github.com/adamftnnn-ui/Modul-8) |
 
